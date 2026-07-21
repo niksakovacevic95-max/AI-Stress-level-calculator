@@ -1,0 +1,2 @@
+# AI-Stress-level-calculator
+A machine learning tool that calcucates your stress level based on your sleep time and your social media time built using python jupyter sklearn matplotlib and pandas  DISCLAIMER this is for educational purposes and this isnt a real prediction on your stress level this isnt accurate and is just used to show you how machine learning works
